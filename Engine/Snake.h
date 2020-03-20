@@ -29,7 +29,7 @@ private:
 	static constexpr Color bodyColor = Colors::Green;
 	static constexpr Color bodyColor2 = Colors::Green2;
 	static constexpr Color bodyColor3 = Colors::Green3;
-	static constexpr Color jumpColor = Colors::Magenta;
+	static constexpr Color jumpColor = Colors::Magenta; //colors are wonderful
 	static constexpr int nSegmentsMax = 600;
 	bool jumpState = false;
 	Segment segments[nSegmentsMax];
